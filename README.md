@@ -6,8 +6,9 @@ https://ieee-dataport.org/documents/c3i-synthetic-human-dataset
 
 Will release the head pose dataset soon.
 
-If you find the work helpful please cite the following - 
-
+## Citation
+If you find our work useful to your research, please consider citing:
+```
 @data{f6zx-bf29-22,
 doi = {10.21227/f6zx-bf29},
 url = {https://dx.doi.org/10.21227/f6zx-bf29},
@@ -25,3 +26,4 @@ year = {2022} }
   number={},
   pages={37557-37573},
   doi={10.1109/ACCESS.2021.3063884}}
+```
