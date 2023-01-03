@@ -4,7 +4,17 @@ We have released the 3D human models (in fbx format) -
 
 https://ieee-dataport.org/documents/c3i-synthetic-human-dataset
 
-Will release the head pose dataset soon.
+The head pose dataset is in the following path - 
+
+Male - 
+
+https://data.mendeley.com/datasets/jd4jm3jpp2
+https://data.mendeley.com/datasets/mc9fzhkvwp
+
+Female - 
+
+https://data.mendeley.com/datasets/vfrfb56sh4
+https://data.mendeley.com/datasets/pttvxjcmpd
 
 ## Citation
 If you find our work useful to your research, please consider citing:
