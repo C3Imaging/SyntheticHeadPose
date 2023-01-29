@@ -2,7 +2,7 @@
 
 We have released the 3D human models (in fbx format) - 
 
-https://ieee-dataport.org/documents/c3i-synthetic-human-dataset
+https://drive.google.com/drive/folders/177Xem5rLg7GYRn6IDwWMwZtBgr57OrtB?usp=share_link
 
 The head pose dataset is in the following path - 
 
@@ -17,6 +17,10 @@ Female -
 https://data.mendeley.com/datasets/vfrfb56sh4
 
 https://data.mendeley.com/datasets/pttvxjcmpd
+
+Alternate Google drive link - 
+
+https://drive.google.com/drive/folders/10QNIb4Rp9D7SHMbdiK3ecbZFIL_bNOEY?usp=share_link
 
 ## Citation
 If you find our work useful to your research, please consider citing:
